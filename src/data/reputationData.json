@@ -1,0 +1,2426 @@
+[
+{
+"_id": "5bf9e9d8f84f4a4bbf6f39c1",
+"communityId": "5be60dea193fb978dc16653d",
+"user": {
+"_id": "slava",
+"name": "slava",
+"image": "https://relevant-image.s3.amazonaws.com/gq5i5gifq_.jpg",
+"handle": "slava",
+"bio": "Tech, culture, music. Co-founder of 4real.io and Relevant. twitter.com/team_slava",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "slava"
+},
+"token": {
+"_id": "slava"
+},
+"id": "slava"
+},
+"community": "crypto",
+"level": 100,
+"pagerankRaw": 1,
+"pagerank": 100
+},
+{
+"_id": "5afdddd21edd7218b17727c1",
+"community": "relevant",
+"user": {
+"_id": "slava",
+"name": "slava",
+"image": "https://relevant-image.s3.amazonaws.com/gq5i5gifq_.jpg",
+"handle": "slava",
+"bio": "Tech, culture, music. Co-founder of 4real.io and Relevant. twitter.com/team_slava",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "slava"
+},
+"token": {
+"_id": "slava"
+},
+"id": "slava"
+},
+"level": 100,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.12296077170112671,
+"pagerank": 100
+},
+{
+"_id": "5afdddd21edd7218b17727c2",
+"community": "relevant",
+"user": {
+"_id": "phillip",
+"name": "phillip",
+"image": "https://relevant-image.s3.amazonaws.com/crw0pc8jv_.jpg",
+"handle": "phillip",
+"bio": "Nothing",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "phillip"
+},
+"token": {
+"_id": "phillip"
+},
+"id": "phillip"
+},
+"level": 2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00004283421264686936,
+"pagerank": 1.99
+},
+{
+"_id": "5afdddd21edd7218b17727c3",
+"community": "relevant",
+"user": {
+"_id": "ignaciotorres",
+"name": "ignaciotorres",
+"image": null,
+"handle": "ignaciotorres",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ignaciotorres"
+},
+"token": {
+"_id": "ignaciotorres"
+},
+"id": "ignaciotorres"
+},
+"level": 1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000021038489246156054,
+"pagerank": 1.01
+},
+{
+"_id": "5afdddd21edd7218b17727c4",
+"community": "relevant",
+"user": {
+"_id": "ricardo_p",
+"name": "ricardo_p",
+"image": "https://relevant-image.s3.amazonaws.com/17s7wgjp5_.jpg",
+"handle": "ricardo_p",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ricardo_p"
+},
+"token": {
+"_id": "ricardo_p"
+},
+"id": "ricardo_p"
+},
+"level": 17.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0006039663919504406,
+"pagerank": 17.23
+},
+{
+"_id": "5afdddd21edd7218b17727c6",
+"community": "relevant",
+"user": {
+"_id": "Analisa",
+"name": "Analisa",
+"image": "https://relevant-image.s3.amazonaws.com/5hnxuofqz_.jpg",
+"handle": "Analisa",
+"bio": "Artist, one of the co-founders of Relevant, Digital Agency 4REAL www.4real.io \n",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Analisa"
+},
+"token": {
+"_id": "Analisa"
+},
+"id": "Analisa"
+},
+"level": 98.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.11177974461610436,
+"pagerank": 98.38
+},
+{
+"_id": "5afdddd21edd7218b17727c7",
+"community": "relevant",
+"user": {
+"_id": "adreem",
+"name": "adreem",
+"image": "https://relevant-image.s3.amazonaws.com/xlms5durn_.jpg",
+"handle": "adreem",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "adreem"
+},
+"token": {
+"_id": "adreem"
+},
+"id": "adreem"
+},
+"level": 2.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00006417140349343076,
+"pagerank": 2.91
+},
+{
+"_id": "5afdddd21edd7218b17727c8",
+"community": "relevant",
+"user": {
+"_id": "Matt99",
+"name": "matt",
+"image": "https://relevant-image.s3.amazonaws.com/3k7vf97a5_.jpg",
+"handle": "Matt99",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "matt"
+},
+"token": {
+"_id": "Matt99"
+},
+"id": "Matt99"
+},
+"level": 14.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00046778137962930527,
+"pagerank": 14.59
+},
+{
+"_id": "5afdddd21edd7218b17727c9",
+"community": "relevant",
+"user": {
+"_id": "jay",
+"name": "jay",
+"image": "https://relevant-image.s3.amazonaws.com/ku3jmeqno_.jpg",
+"handle": "jay",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jay"
+},
+"token": {
+"_id": "jay"
+},
+"id": "jay"
+},
+"level": 3.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008226985454288956,
+"pagerank": 3.64
+},
+{
+"_id": "5afdddd21edd7218b17727cb",
+"community": "relevant",
+"user": {
+"_id": "zainabzmz",
+"name": "zainabzmz",
+"image": "https://relevant-image.s3.amazonaws.com/rt4x0ijo4_.jpg",
+"handle": "zainabzmz",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "zainabzmz"
+},
+"token": {
+"_id": "zainabzmz"
+},
+"id": "zainabzmz"
+},
+"level": 3.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008219029082971621,
+"pagerank": 3.64
+},
+{
+"_id": "5afdddd21edd7218b17727cc",
+"community": "relevant",
+"user": {
+"_id": "aarondavidross",
+"name": "aarondavidross",
+"image": "https://relevant-image.s3.amazonaws.com/izvi50z81_.jpg",
+"handle": "aarondavidross",
+"bio": "THROAT\ntwitter.com/AaronDavidRoss",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "aarondavidross"
+},
+"token": {
+"_id": "aarondavidross"
+},
+"id": "aarondavidross"
+},
+"level": 5.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00012637354709319013,
+"pagerank": 5.32
+},
+{
+"_id": "5afdddd21edd7218b17727cd",
+"community": "relevant",
+"user": {
+"_id": "elph16",
+"name": "elph16",
+"image": "https://relevant-image.s3.amazonaws.com/e3dx7ajl7_.jpg",
+"handle": "elph16",
+"bio": "I am single and looking for the man of my dreams. Follow me on twitter at twitter.com/gossipbabies ",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "elph16"
+},
+"token": {
+"_id": "elph16"
+},
+"id": "elph16"
+},
+"level": 1.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00002262480515786266,
+"pagerank": 1.08
+},
+{
+"_id": "5afdddd21edd7218b17727cf",
+"community": "relevant",
+"user": {
+"_id": "jon",
+"name": "jon",
+"image": "https://relevant-image.s3.amazonaws.com/4975mp144_.jpg",
+"handle": "jon",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jon"
+},
+"token": {
+"_id": "jon"
+},
+"id": "jon"
+},
+"level": 6.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00014745227741766752,
+"pagerank": 6.06
+},
+{
+"_id": "5afdddd21edd7218b17727ce",
+"community": "relevant",
+"user": {
+"_id": "taylore",
+"name": "taylore",
+"image": "https://relevant-image.s3.amazonaws.com/ptlgzj1d8_.jpg",
+"handle": "taylore",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "taylore"
+},
+"token": {
+"_id": "taylore"
+},
+"id": "taylore"
+},
+"level": 98.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.10962288359316048,
+"pagerank": 98.05
+},
+{
+"_id": "5afdddd21edd7218b17727d0",
+"community": "relevant",
+"user": {
+"_id": "praiseshadows",
+"name": "praiseshadows",
+"image": null,
+"handle": "praiseshadows",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "praiseshadows"
+},
+"token": {
+"_id": "praiseshadows"
+},
+"id": "praiseshadows"
+},
+"level": 0.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000011104437121592956,
+"pagerank": 0.54
+},
+{
+"_id": "5afdddd21edd7218b17727d1",
+"community": "relevant",
+"user": {
+"_id": "ruthgruca",
+"name": "ruthgruca",
+"image": null,
+"handle": "ruthgruca",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ruthgruca"
+},
+"token": {
+"_id": "ruthgruca"
+},
+"id": "ruthgruca"
+},
+"level": 0.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0000022400815594831663,
+"pagerank": 0.11
+},
+{
+"_id": "5afdddd21edd7218b17727d3",
+"community": "relevant",
+"user": {
+"_id": "test",
+"name": "test",
+"image": null,
+"handle": "test",
+"bio": "Tets",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "test"
+},
+"token": {
+"_id": "test"
+},
+"id": "test"
+},
+"level": 2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00004205185287245653,
+"pagerank": 1.96
+},
+{
+"_id": "5afdddd21edd7218b17727d4",
+"community": "relevant",
+"user": {
+"_id": "lyndsy",
+"name": "lyndsy",
+"image": "https://relevant-image.s3.amazonaws.com/wurgv9e7r_.jpg",
+"handle": "lyndsy",
+"bio": "How The Earth’s Water Got Here - pionic\nhttps://apple.news/A5QTNrYffR3awQ8RfqG3lVA",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "lyndsy"
+},
+"token": {
+"_id": "lyndsy"
+},
+"id": "lyndsy"
+},
+"level": 11.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00032199618524892857,
+"pagerank": 11.23
+},
+{
+"_id": "5afdddd21edd7218b17727d5",
+"community": "relevant",
+"user": {
+"_id": "tomgalle",
+"name": "tom",
+"image": "https://relevant-image.s3.amazonaws.com/wswrs652c_.jpg",
+"handle": "tomgalle",
+"bio": "tomgalle.com - instagram.com/tomgalle",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "tom"
+},
+"token": {
+"_id": "tomgalle"
+},
+"id": "tomgalle"
+},
+"level": 13.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0004349647484921122,
+"pagerank": 13.89
+},
+{
+"_id": "5afdddd21edd7218b17727d9",
+"community": "relevant",
+"user": {
+"_id": "mbullockjr",
+"name": "mbullockjr",
+"image": "https://relevant-image.s3.amazonaws.com/zt3c6a4oq_.jpg",
+"handle": "mbullockjr",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "mbullockjr"
+},
+"token": {
+"_id": "mbullockjr"
+},
+"id": "mbullockjr"
+},
+"level": 2.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00005539669470006375,
+"pagerank": 2.54
+},
+{
+"_id": "5afdddd21edd7218b17727da",
+"community": "relevant",
+"user": {
+"_id": "willard",
+"name": "willard",
+"image": "https://relevant-image.s3.amazonaws.com/dabmdpsbv_.jpg",
+"handle": "willard",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "willard"
+},
+"token": {
+"_id": "willard"
+},
+"id": "willard"
+},
+"level": 1.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00003666228216395329,
+"pagerank": 1.72
+},
+{
+"_id": "5afdddd21edd7218b17727dc",
+"community": "relevant",
+"user": {
+"_id": "spencer",
+"name": "spencer",
+"image": "https://relevant-image.s3.amazonaws.com/5ddhil50v_.jpg",
+"handle": "spencer",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "spencer"
+},
+"token": {
+"_id": "spencer"
+},
+"id": "spencer"
+},
+"level": 16.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0005644033715589237,
+"pagerank": 16.51
+},
+{
+"_id": "5afdddd21edd7218b17727de",
+"community": "relevant",
+"user": {
+"_id": "MissBigelsworth",
+"name": "MissBigelsworth",
+"image": "https://relevant-image.s3.amazonaws.com/m62mxozkv_.jpg",
+"handle": "MissBigelsworth",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "MissBigelsworth"
+},
+"token": {
+"_id": "MissBigelsworth"
+},
+"id": "MissBigelsworth"
+},
+"level": 3.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008415523097318689,
+"pagerank": 3.72
+},
+{
+"_id": "5afdddd21edd7218b17727df",
+"community": "relevant",
+"user": {
+"_id": "tori_toro",
+"name": "tori_toro",
+"image": "https://relevant-image.s3.amazonaws.com/wj3mec494_.jpg",
+"handle": "tori_toro",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "tori_toro"
+},
+"token": {
+"_id": "tori_toro"
+},
+"id": "tori_toro"
+},
+"level": 6.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00015597326411030926,
+"pagerank": 6.36
+},
+{
+"_id": "5afdddd21edd7218b17727e0",
+"community": "relevant",
+"user": {
+"_id": "JonasWendelin",
+"name": "JonasWendelin",
+"image": "https://relevant-image.s3.amazonaws.com/6h3c2nr3m_.jpg",
+"handle": "JonasWendelin",
+"bio": "When they understood what it meant to be many\ntwitter.com/lnvasiveSpecies",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "JonasWendelin"
+},
+"token": {
+"_id": "JonasWendelin"
+},
+"id": "JonasWendelin"
+},
+"level": 35.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0024802494404698506,
+"pagerank": 35.79
+},
+{
+"_id": "5afdddd21edd7218b17727e2",
+"community": "relevant",
+"user": {
+"_id": "thymayap",
+"name": "thymayap",
+"image": "https://relevant-image.s3.amazonaws.com/jlgu9l6e4_.jpg",
+"handle": "thymayap",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "thymayap"
+},
+"token": {
+"_id": "thymayap"
+},
+"id": "thymayap"
+},
+"level": 11.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0003194476468325204,
+"pagerank": 11.16
+},
+{
+"_id": "5afdddd21edd7218b17727e4",
+"community": "relevant",
+"user": {
+"_id": "quasimado",
+"name": "quasimado",
+"image": "https://relevant-image.s3.amazonaws.com/s96cf0se5_.jpg",
+"handle": "quasimado",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "quasimado"
+},
+"token": {
+"_id": "quasimado"
+},
+"id": "quasimado"
+},
+"level": 2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00004323015818373705,
+"pagerank": 2.01
+},
+{
+"_id": "5afdddd21edd7218b17727e5",
+"community": "relevant",
+"user": {
+"_id": "petitesymphonie",
+"name": "petitesymphonie",
+"image": null,
+"handle": "petitesymphonie",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "petitesymphonie"
+},
+"token": {
+"_id": "petitesymphonie"
+},
+"id": "petitesymphonie"
+},
+"level": 3.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008739006757216828,
+"pagerank": 3.85
+},
+{
+"_id": "5afdddd21edd7218b17727e6",
+"community": "relevant",
+"user": {
+"_id": "laurenboyle",
+"name": "laurenboyle",
+"image": "https://relevant-image.s3.amazonaws.com/du4bn4aaa_.jpg",
+"handle": "laurenboyle",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "laurenboyle"
+},
+"token": {
+"_id": "laurenboyle"
+},
+"id": "laurenboyle"
+},
+"level": 6.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00016326016685857362,
+"pagerank": 6.6
+},
+{
+"_id": "5afdddd21edd7218b17727e8",
+"community": "relevant",
+"user": {
+"_id": "bamboo",
+"name": "jules",
+"image": "https://relevant-image.s3.amazonaws.com/3y35iuzn7_.jpg",
+"handle": "bamboo",
+"bio": "http://asdf.us/",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jules"
+},
+"token": {
+"_id": "bamboo"
+},
+"id": "bamboo"
+},
+"level": 31.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0018155103431008988,
+"pagerank": 31.23
+},
+{
+"_id": "5afdddd21edd7218b17727e7",
+"community": "relevant",
+"user": {
+"_id": "rossleonardy",
+"name": "rossleonardy",
+"image": null,
+"handle": "rossleonardy",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "rossleonardy"
+},
+"token": {
+"_id": "rossleonardy"
+},
+"id": "rossleonardy"
+},
+"level": 8.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00022300159224254774,
+"pagerank": 8.49
+},
+{
+"_id": "5afdddd21edd7218b17727ea",
+"community": "relevant",
+"user": {
+"_id": "VVVAA",
+"name": "VVVAA",
+"image": "https://relevant-image.s3.amazonaws.com/4kzvfv65u_.jpg",
+"handle": "VVVAA",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "VVVAA"
+},
+"token": {
+"_id": "VVVAA"
+},
+"id": "VVVAA"
+},
+"level": 2.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00006496465112605501,
+"pagerank": 2.94
+},
+{
+"_id": "5afdddd21edd7218b17727ed",
+"community": "relevant",
+"user": {
+"_id": "janine",
+"name": "janine",
+"image": "https://relevant-image.s3.amazonaws.com/po51y0sg4_.jpg",
+"handle": "janine",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "janine"
+},
+"token": {
+"_id": "janine"
+},
+"id": "janine"
+},
+"level": 4.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0001059315199646233,
+"pagerank": 4.56
+},
+{
+"_id": "5afdddd21edd7218b17727f1",
+"community": "relevant",
+"user": {
+"_id": "nadja",
+"name": "nadja",
+"image": "https://relevant-image.s3.amazonaws.com/zuac5t1zm_.jpg",
+"handle": "nadja",
+"bio": "ex-neuroscientist, science media producer & co-founder of www.massivesci.com",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "nadja"
+},
+"token": {
+"_id": "nadja"
+},
+"id": "nadja"
+},
+"level": 13.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00042540990939794564,
+"pagerank": 13.68
+},
+{
+"_id": "5afdddd21edd7218b17727fc",
+"community": "relevant",
+"user": {
+"_id": "wildFriends",
+"name": "wildFriends",
+"image": "https://relevant-image.s3.amazonaws.com/gd5xj9l4n_.jpg",
+"handle": "wildFriends",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "wildFriends"
+},
+"token": {
+"_id": "wildFriends"
+},
+"id": "wildFriends"
+},
+"level": 0.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000010800637450803944,
+"pagerank": 0.53
+},
+{
+"_id": "5afdddd21edd7218b17727fd",
+"community": "relevant",
+"user": {
+"_id": "Timursq",
+"name": "Timursq",
+"image": "https://relevant-image.s3.amazonaws.com/uhxklo9j8_.jpg",
+"handle": "Timursq",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Timursq"
+},
+"token": {
+"_id": "Timursq"
+},
+"id": "Timursq"
+},
+"level": 19.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0007564845104116836,
+"pagerank": 19.77
+},
+{
+"_id": "5afdddd21edd7218b17727fe",
+"community": "relevant",
+"user": {
+"_id": "sean1",
+"name": "sean",
+"image": null,
+"handle": "sean1",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "sean"
+},
+"token": {
+"_id": "sean1"
+},
+"id": "sean1"
+},
+"level": 0.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000013131570174971134,
+"pagerank": 0.64
+},
+{
+"_id": "5afdddd21edd7218b17727ff",
+"community": "relevant",
+"user": {
+"_id": "solomon",
+"name": "solomon",
+"image": "https://relevant-image.s3.amazonaws.com/lpulln5yg_.jpg",
+"handle": "solomon",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "solomon"
+},
+"token": {
+"_id": "solomon"
+},
+"id": "solomon"
+},
+"level": 4.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00011036964508607718,
+"pagerank": 4.73
+},
+{
+"_id": "5afdddd21edd7218b1772800",
+"community": "relevant",
+"user": {
+"_id": "jwaber",
+"name": "julianne",
+"image": "https://relevant-image.s3.amazonaws.com/fh6bfe47z_.jpg",
+"handle": "jwaber",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "julianne"
+},
+"token": {
+"_id": "jwaber"
+},
+"id": "jwaber"
+},
+"level": 6.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00016493797244426572,
+"pagerank": 6.66
+},
+{
+"_id": "5afdddd21edd7218b1772801",
+"community": "relevant",
+"user": {
+"_id": "katheryn",
+"name": "katheryn",
+"image": "https://relevant-image.s3.amazonaws.com/t5lr1667x_.jpg",
+"handle": "katheryn",
+"bio": "Deputy director of special features at Forbes. Runs Pomegranate, a salon series for women in creative tech. ",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "katheryn"
+},
+"token": {
+"_id": "katheryn"
+},
+"id": "katheryn"
+},
+"level": 32.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.002000176824310574,
+"pagerank": 32.62
+},
+{
+"_id": "5afdddd21edd7218b1772802",
+"community": "relevant",
+"user": {
+"_id": "yacht",
+"name": "yacht",
+"image": "https://relevant-image.s3.amazonaws.com/tsfsf6yfl_.jpg",
+"handle": "yacht",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "yacht"
+},
+"token": {
+"_id": "yacht"
+},
+"id": "yacht"
+},
+"level": 3.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008444540769455593,
+"pagerank": 3.73
+},
+{
+"_id": "5afdddd21edd7218b1772804",
+"community": "relevant",
+"user": {
+"_id": "p",
+"name": "p",
+"image": null,
+"handle": "p",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "p"
+},
+"token": {
+"_id": "p"
+},
+"id": "p"
+},
+"level": 0,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 6.339784074369496e-7,
+"pagerank": 0.03
+},
+{
+"_id": "5afdddd21edd7218b1772806",
+"community": "relevant",
+"user": {
+"_id": "mat",
+"name": "mat",
+"image": "https://relevant-image.s3.amazonaws.com/gitb3tn65_.jpg",
+"handle": "mat",
+"bio": "📯🔗💻",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "mat"
+},
+"token": {
+"_id": "mat"
+},
+"id": "mat"
+},
+"level": 10.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0003104916120007259,
+"pagerank": 10.93
+},
+{
+"_id": "5afdddd21edd7218b1772807",
+"community": "relevant",
+"user": {
+"_id": "akellogg2501",
+"name": "akellogg2501",
+"image": "https://relevant-image.s3.amazonaws.com/wvfkydej3_.jpg",
+"handle": "akellogg2501",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "akellogg2501"
+},
+"token": {
+"_id": "akellogg2501"
+},
+"id": "akellogg2501"
+},
+"level": 1.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000021929861344986106,
+"pagerank": 1.05
+},
+{
+"_id": "5afdddd21edd7218b177280a",
+"community": "relevant",
+"user": {
+"_id": "kam-i",
+"name": "kamron",
+"image": "https://relevant-image.s3.amazonaws.com/vk4n6hd6l_.jpg",
+"handle": "kam-i",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "kamron"
+},
+"token": {
+"_id": "kam-i"
+},
+"id": "kam-i"
+},
+"level": 4.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00010197852589747936,
+"pagerank": 4.41
+},
+{
+"_id": "5afdddd21edd7218b177280b",
+"community": "relevant",
+"user": {
+"_id": "isthisa",
+"name": "isthisa",
+"image": null,
+"handle": "isthisa",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "isthisa"
+},
+"token": {
+"_id": "isthisa"
+},
+"id": "isthisa"
+},
+"level": 7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0001751121378881914,
+"pagerank": 6.99
+},
+{
+"_id": "5afdddd21edd7218b177280c",
+"community": "relevant",
+"user": {
+"_id": "Bogart",
+"name": "Bogart",
+"image": "https://relevant-image.s3.amazonaws.com/95fouqsmm_.jpg",
+"handle": "Bogart",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Bogart"
+},
+"token": {
+"_id": "Bogart"
+},
+"id": "Bogart"
+},
+"level": 1.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000026187026499235283,
+"pagerank": 1.25
+},
+{
+"_id": "5afdddd21edd7218b177280e",
+"community": "relevant",
+"user": {
+"_id": "gabestein",
+"name": "gabestein",
+"image": "https://relevant-image.s3.amazonaws.com/6ncozlpvr_.jpg",
+"handle": "gabestein",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "gabestein"
+},
+"token": {
+"_id": "gabestein"
+},
+"id": "gabestein"
+},
+"level": 2.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000051858535063112805,
+"pagerank": 2.39
+},
+{
+"_id": "5afdddd21edd7218b1772810",
+"community": "relevant",
+"user": {
+"_id": "thejaymo",
+"name": "thejaymo",
+"image": "https://relevant-image.s3.amazonaws.com/t1jfn5ikk_.jpg",
+"handle": "thejaymo",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "thejaymo"
+},
+"token": {
+"_id": "thejaymo"
+},
+"id": "thejaymo"
+},
+"level": 25.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0012025815899063936,
+"pagerank": 25.55
+},
+{
+"_id": "5afdddd21edd7218b1772811",
+"community": "relevant",
+"user": {
+"_id": "warrenellis",
+"name": "warrenellis",
+"image": "https://relevant-image.s3.amazonaws.com/w9k36ourj_.jpg",
+"handle": "warrenellis",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "warrenellis"
+},
+"token": {
+"_id": "warrenellis"
+},
+"id": "warrenellis"
+},
+"level": 1.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00002308905488434161,
+"pagerank": 1.1
+},
+{
+"_id": "5afdddd21edd7218b1772817",
+"community": "relevant",
+"user": {
+"_id": "allan",
+"name": "allan",
+"image": "https://relevant-image.s3.amazonaws.com/xdwt7y908_.jpg",
+"handle": "allan",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "allan"
+},
+"token": {
+"_id": "allan"
+},
+"id": "allan"
+},
+"level": 1.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00003398374542382997,
+"pagerank": 1.6
+},
+{
+"_id": "5afdddd21edd7218b177281c",
+"community": "relevant",
+"user": {
+"_id": "timheiler",
+"name": "timheiler",
+"image": null,
+"handle": "timheiler",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "timheiler"
+},
+"token": {
+"_id": "timheiler"
+},
+"id": "timheiler"
+},
+"level": 0.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00001152546627826911,
+"pagerank": 0.56
+},
+{
+"_id": "5afdddd21edd7218b1772824",
+"community": "relevant",
+"user": {
+"_id": "noort",
+"name": "noort",
+"image": "https://relevant-image.s3.amazonaws.com/03o5znn42_.jpg",
+"handle": "noort",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "noort"
+},
+"token": {
+"_id": "noort"
+},
+"id": "noort"
+},
+"level": 0.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0000058516007592869814,
+"pagerank": 0.29
+},
+{
+"_id": "5afdddd21edd7218b1772825",
+"community": "relevant",
+"user": {
+"_id": "eleanor",
+"name": "eleanor",
+"image": "https://relevant-image.s3.amazonaws.com/4cie3lph4_.jpg",
+"handle": "eleanor",
+"bio": "snoop and voluptuary\n",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "eleanor"
+},
+"token": {
+"_id": "eleanor"
+},
+"id": "eleanor"
+},
+"level": 8.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00023531003294126392,
+"pagerank": 8.86
+},
+{
+"_id": "5afdddd21edd7218b177282a",
+"community": "relevant",
+"user": {
+"_id": "daniel",
+"name": "daniel",
+"image": null,
+"handle": "daniel",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "daniel"
+},
+"token": {
+"_id": "daniel"
+},
+"id": "daniel"
+},
+"level": 0.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000015798008972152265,
+"pagerank": 0.76
+},
+{
+"_id": "5afdddd21edd7218b177282b",
+"community": "relevant",
+"user": {
+"_id": "kmikeym",
+"name": "display_name",
+"image": "https://relevant-image.s3.amazonaws.com/9h6kfz25h_.jpg",
+"handle": "kmikeym",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "display_name"
+},
+"token": {
+"_id": "kmikeym"
+},
+"id": "kmikeym"
+},
+"level": 0.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000018991411042182664,
+"pagerank": 0.91
+},
+{
+"_id": "5afdddd21edd7218b177282e",
+"community": "relevant",
+"user": {
+"_id": "flixonase",
+"name": "gianmaria",
+"image": "https://relevant-image.s3.amazonaws.com/vbstc1ys2_.jpg",
+"handle": "flixonase",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "gianmaria"
+},
+"token": {
+"_id": "flixonase"
+},
+"id": "flixonase"
+},
+"level": 13.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00041583965279616753,
+"pagerank": 13.47
+},
+{
+"_id": "5afdddd21edd7218b1772832",
+"community": "relevant",
+"user": {
+"_id": "lukas",
+"name": "lukas",
+"image": "https://relevant-image.s3.amazonaws.com/l9sdamh4o_.jpg",
+"handle": "lukas",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "lukas"
+},
+"token": {
+"_id": "lukas"
+},
+"id": "lukas"
+},
+"level": 0.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000018390039187926828,
+"pagerank": 0.89
+},
+{
+"_id": "5afdddd21edd7218b1772837",
+"community": "relevant",
+"user": {
+"_id": "leondische",
+"name": "leondische",
+"image": "https://relevant-image.s3.amazonaws.com/km9kk669k_.jpg",
+"handle": "leondische",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "leondische"
+},
+"token": {
+"_id": "leondische"
+},
+"id": "leondische"
+},
+"level": 21,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0008376550429804371,
+"pagerank": 20.98
+},
+{
+"_id": "5afdddd21edd7218b1772838",
+"community": "relevant",
+"user": {
+"_id": "t_s_b_",
+"name": "t_s_b_",
+"image": "https://relevant-image.s3.amazonaws.com/ls132r5kf_.jpg",
+"handle": "t_s_b_",
+"bio": "🌳",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "t_s_b_"
+},
+"token": {
+"_id": "t_s_b_"
+},
+"id": "t_s_b_"
+},
+"level": 14.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00045731119042214475,
+"pagerank": 14.37
+},
+{
+"_id": "5afdddd21edd7218b1772839",
+"community": "relevant",
+"user": {
+"_id": "chablasco",
+"name": "cha",
+"image": "https://relevant-image.s3.amazonaws.com/zvallspwt_.jpg",
+"handle": "chablasco",
+"bio": "🌲 📚 🎛 ✨\n🔗 chablasco.com",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "cha"
+},
+"token": {
+"_id": "chablasco"
+},
+"id": "chablasco"
+},
+"level": 49.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.006003615037402628,
+"pagerank": 49.56
+},
+{
+"_id": "5afdddd21edd7218b177283a",
+"community": "relevant",
+"user": {
+"_id": "jorne",
+"name": "jorne",
+"image": null,
+"handle": "jorne",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jorne"
+},
+"token": {
+"_id": "jorne"
+},
+"id": "jorne"
+},
+"level": 1.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000023341255567580935,
+"pagerank": 1.12
+},
+{
+"_id": "5afdddd21edd7218b177283e",
+"community": "relevant",
+"user": {
+"_id": "amdily",
+"name": "amdily",
+"image": "https://relevant-image.s3.amazonaws.com/45s4dz298_.jpg",
+"handle": "amdily",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "amdily"
+},
+"token": {
+"_id": "amdily"
+},
+"id": "amdily"
+},
+"level": 0.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000008887645238851711,
+"pagerank": 0.43
+},
+{
+"_id": "5afdddd21edd7218b1772841",
+"community": "relevant",
+"user": {
+"_id": "Pataphor",
+"name": "Pataphor",
+"image": "https://relevant-image.s3.amazonaws.com/mexbmpc21_.jpg",
+"handle": "Pataphor",
+"bio": "You see a man with a brown fedora and a terrific smile.",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Pataphor"
+},
+"token": {
+"_id": "Pataphor"
+},
+"id": "Pataphor"
+},
+"level": 0.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00000993448590325237,
+"pagerank": 0.48
+},
+{
+"_id": "5afdddd21edd7218b1772843",
+"community": "relevant",
+"user": {
+"_id": "radekszczesniak",
+"name": "radekszczesniak",
+"image": "https://relevant-image.s3.amazonaws.com/71ea4vjqt_.jpg",
+"handle": "radekszczesniak",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "radekszczesniak"
+},
+"token": {
+"_id": "radekszczesniak"
+},
+"id": "radekszczesniak"
+},
+"level": 0.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000009013172919718375,
+"pagerank": 0.44
+},
+{
+"_id": "5afdddd21edd7218b1772844",
+"community": "relevant",
+"user": {
+"_id": "eammon",
+"name": "eammon",
+"image": "https://relevant-image.s3.amazonaws.com/q4yn0v7fy_.jpg",
+"handle": "eammon",
+"bio": "Musician.",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "eammon"
+},
+"token": {
+"_id": "eammon"
+},
+"id": "eammon"
+},
+"level": 3.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00007898059080972207,
+"pagerank": 3.51
+},
+{
+"_id": "5afdddd21edd7218b1772846",
+"community": "relevant",
+"user": {
+"_id": "Geometrics",
+"name": "ADG",
+"image": null,
+"handle": "Geometrics",
+"bio": "#music #design #business",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ADG"
+},
+"token": {
+"_id": "Geometrics"
+},
+"id": "Geometrics"
+},
+"level": 2.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00004697816403951148,
+"pagerank": 2.18
+},
+{
+"_id": "5afdddd21edd7218b1772847",
+"community": "relevant",
+"user": {
+"_id": "jvnnik",
+"name": "jvnnik",
+"image": "https://relevant-image.s3.amazonaws.com/nin0edwbi_.jpg",
+"handle": "jvnnik",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jvnnik"
+},
+"token": {
+"_id": "jvnnik"
+},
+"id": "jvnnik"
+},
+"level": 10.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00030189185619556647,
+"pagerank": 10.71
+},
+{
+"_id": "5afdddd21edd7218b177284c",
+"community": "relevant",
+"user": {
+"_id": "mozuraitis",
+"name": "mozuraitis",
+"image": "https://relevant-image.s3.amazonaws.com/xqfyqyb3w_.jpg",
+"handle": "mozuraitis",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "mozuraitis"
+},
+"token": {
+"_id": "mozuraitis"
+},
+"id": "mozuraitis"
+},
+"level": 1.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00003602156586583538,
+"pagerank": 1.69
+},
+{
+"_id": "5afdddd21edd7218b1772858",
+"community": "relevant",
+"user": {
+"_id": "justinbaum",
+"name": "justinbaum",
+"image": "https://relevant-image.s3.amazonaws.com/v4nz6az79_.jpg",
+"handle": "justinbaum",
+"bio": "Internet, Earth & Cosmos\ntwitter.com/JustinBaum",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "justinbaum"
+},
+"token": {
+"_id": "justinbaum"
+},
+"id": "justinbaum"
+},
+"level": 2.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00006234210340878011,
+"pagerank": 2.83
+},
+{
+"_id": "5afdddd21edd7218b177285a",
+"community": "relevant",
+"user": {
+"_id": "kinggem",
+"name": "kinggem",
+"image": "https://relevant-image.s3.amazonaws.com/svjf6s7e5_.jpg",
+"handle": "kinggem",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "kinggem"
+},
+"token": {
+"_id": "kinggem"
+},
+"id": "kinggem"
+},
+"level": 5.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00014360460695008676,
+"pagerank": 5.93
+},
+{
+"_id": "5afdddd21edd7218b177285d",
+"community": "relevant",
+"user": {
+"_id": "babakradboy",
+"name": "babakradboy",
+"image": "https://relevant-image.s3.amazonaws.com/mubhiyxlu_.jpg",
+"handle": "babakradboy",
+"bio": "Amateur.",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "babakradboy"
+},
+"token": {
+"_id": "babakradboy"
+},
+"id": "babakradboy"
+},
+"level": 18.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0006660502704011939,
+"pagerank": 18.31
+},
+{
+"_id": "5afdddd21edd7218b177285f",
+"community": "relevant",
+"user": {
+"_id": "Ruth",
+"name": "Ruth",
+"image": "https://relevant-image.s3.amazonaws.com/zrn7ragy9_.jpg",
+"handle": "Ruth",
+"bio": "Managing Editor at The FADER, mostly write about electronic music",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Ruth"
+},
+"token": {
+"_id": "Ruth"
+},
+"id": "Ruth"
+},
+"level": 3.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008909685659487105,
+"pagerank": 3.91
+},
+{
+"_id": "5afdddd21edd7218b1772864",
+"community": "relevant",
+"user": {
+"_id": "saraswathi",
+"name": "saraswathi",
+"image": "https://relevant-image.s3.amazonaws.com/izzl42xrk_.jpg",
+"handle": "saraswathi",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "saraswathi"
+},
+"token": {
+"_id": "saraswathi"
+},
+"id": "saraswathi"
+},
+"level": 2.2,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00004772124103866074,
+"pagerank": 2.21
+},
+{
+"_id": "5afdddd21edd7218b177286c",
+"community": "relevant",
+"user": {
+"_id": "billy",
+"name": "billy",
+"image": "https://pbs.twimg.com/profile_images/523494046631591936/m36s0OE_.jpeg",
+"handle": "billy",
+"bio": "\ntwitter.com/billyrennekamp",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "billy"
+},
+"token": {
+"_id": "billy"
+},
+"id": "billy"
+},
+"level": 97.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.10522545024593412,
+"pagerank": 97.36
+},
+{
+"_id": "5afdddd21edd7218b1772878",
+"community": "relevant",
+"user": {
+"_id": "Hector",
+"name": "Hector",
+"image": "https://relevant-image.s3.amazonaws.com/0gedbypyr_.jpg",
+"handle": "Hector",
+"bio": "Podcasts. Design. Sexuality. Comics. Film. Life. Love. Love. Love.\nwww.hectorpahaut.com",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Hector"
+},
+"token": {
+"_id": "Hector"
+},
+"id": "Hector"
+},
+"level": 1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000020986839060361516,
+"pagerank": 1.01
+},
+{
+"_id": "5afdddd21edd7218b177287b",
+"community": "relevant",
+"user": {
+"_id": "hvon",
+"name": "hvon",
+"image": "https://relevant-image.s3.amazonaws.com/ta7i8jq6t_.jpg",
+"handle": "hvon",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "hvon"
+},
+"token": {
+"_id": "hvon"
+},
+"id": "hvon"
+},
+"level": 6.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00016956746253116636,
+"pagerank": 6.81
+},
+{
+"_id": "5afdddd21edd7218b177287e",
+"community": "relevant",
+"user": {
+"_id": "eglitza",
+"name": "eglitza",
+"image": "https://relevant-image.s3.amazonaws.com/0o3qf8f5g_.jpg",
+"handle": "eglitza",
+"bio": "Art, body&soul, tech-life, experimental music, feminism",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "eglitza"
+},
+"token": {
+"_id": "eglitza"
+},
+"id": "eglitza"
+},
+"level": 2.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00005631733379126475,
+"pagerank": 2.58
+},
+{
+"_id": "5afdddd21edd7218b1772881",
+"community": "relevant",
+"user": {
+"_id": "uwenna",
+"name": "uwenna",
+"image": null,
+"handle": "uwenna",
+"bio": "#bitcoin #ethereum #yoga #meditation #travel",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "uwenna"
+},
+"token": {
+"_id": "uwenna"
+},
+"id": "uwenna"
+},
+"level": 2.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0000592611212597022,
+"pagerank": 2.7
+},
+{
+"_id": "5afdddd21edd7218b1772882",
+"community": "relevant",
+"user": {
+"_id": "patricfallon",
+"name": "patric",
+"image": "https://relevant-image.s3.amazonaws.com/di475jvdp_.jpg",
+"handle": "patricfallon",
+"bio": "twitter.com/patricfallon",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "patric"
+},
+"token": {
+"_id": "patricfallon"
+},
+"id": "patricfallon"
+},
+"level": 8.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00021868554816538977,
+"pagerank": 8.36
+},
+{
+"_id": "5afdddd21edd7218b1772885",
+"community": "relevant",
+"user": {
+"_id": "coolguy",
+"name": "coolguy",
+"image": "https://relevant-image.s3.amazonaws.com/90gt9t095_.jpg",
+"handle": "coolguy",
+"bio": "#cool\n",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "coolguy"
+},
+"token": {
+"_id": "coolguy"
+},
+"id": "coolguy"
+},
+"level": 0.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000008162465189260374,
+"pagerank": 0.4
+},
+{
+"_id": "5afdddd21edd7218b177288a",
+"community": "relevant",
+"user": {
+"_id": "joachimbaan",
+"name": "joachim",
+"image": "https://relevant-image.s3.amazonaws.com/a6070w9ji_.jpg",
+"handle": "joachimbaan",
+"bio": "Sharing notes on the beauty of cultures on www.another.so",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "joachim"
+},
+"token": {
+"_id": "joachimbaan"
+},
+"id": "joachimbaan"
+},
+"level": 7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00017646565207487565,
+"pagerank": 7.04
+},
+{
+"_id": "5afdddd21edd7218b177288b",
+"community": "relevant",
+"user": {
+"_id": "fish",
+"name": "issa",
+"image": "https://relevant-image.s3.amazonaws.com/cmt69hx0c_.jpg",
+"handle": "fish",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "issa"
+},
+"token": {
+"_id": "fish"
+},
+"id": "fish"
+},
+"level": 2.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000052921975494671074,
+"pagerank": 2.43
+},
+{
+"_id": "5afdddd21edd7218b1772891",
+"community": "relevant",
+"user": {
+"_id": "brandon",
+"name": "brandon",
+"image": "https://relevant-image.s3.amazonaws.com/vzyebo3a9_.jpg",
+"handle": "brandon",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "brandon"
+},
+"token": {
+"_id": "brandon"
+},
+"id": "brandon"
+},
+"level": 1.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000041309692810268167,
+"pagerank": 1.93
+},
+{
+"_id": "5afdddd21edd7218b1772896",
+"community": "relevant",
+"user": {
+"_id": "hvetemel",
+"name": "hvetemel",
+"image": "https://relevant-image.s3.amazonaws.com/ksqh5uymg_.jpg",
+"handle": "hvetemel",
+"bio": "Generally interested everything philosophy, photography, literature, idea-history and art. Highly opinionated, not with a huge depth of knowledge in everything but a bit of everything drawing lines between them. ",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "hvetemel"
+},
+"token": {
+"_id": "hvetemel"
+},
+"id": "hvetemel"
+},
+"level": 9.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00025332370813688535,
+"pagerank": 9.38
+},
+{
+"_id": "5afdddd21edd7218b17728a6",
+"community": "relevant",
+"user": {
+"_id": "xo",
+"name": "jaeger",
+"image": "https://relevant-image.s3.amazonaws.com/6psk7vix7_.jpg",
+"handle": "xo",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jaeger"
+},
+"token": {
+"_id": "xo"
+},
+"id": "xo"
+},
+"level": 1.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.000031530773659909274,
+"pagerank": 1.49
+},
+{
+"_id": "5afdddd21edd7218b17728a8",
+"community": "relevant",
+"user": {
+"_id": "zminuto",
+"name": "xaqary",
+"image": "https://relevant-image.s3.amazonaws.com/n1thtm7f9_.jpg",
+"handle": "zminuto",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "xaqary"
+},
+"token": {
+"_id": "zminuto"
+},
+"id": "zminuto"
+},
+"level": 11.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00033714045346846296,
+"pagerank": 11.61
+},
+{
+"_id": "5afdddd21edd7218b17728ac",
+"community": "relevant",
+"user": {
+"_id": "voxels",
+"name": "voxels",
+"image": "https://relevant-image.s3.amazonaws.com/5nv48tr1x_.jpg",
+"handle": "voxels",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "voxels"
+},
+"token": {
+"_id": "voxels"
+},
+"id": "voxels"
+},
+"level": 3.9,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00008770597397037008,
+"pagerank": 3.86
+},
+{
+"_id": "5afdddd21edd7218b17728ae",
+"community": "relevant",
+"user": {
+"_id": "ybalasan",
+"name": "ybalasan",
+"image": null,
+"handle": "ybalasan",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ybalasan"
+},
+"token": {
+"_id": "ybalasan"
+},
+"id": "ybalasan"
+},
+"level": 11.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00032373764584310653,
+"pagerank": 11.27
+},
+{
+"_id": "5afdddd21edd7218b17728af",
+"community": "relevant",
+"user": {
+"_id": "mikepepi",
+"name": "mikepepi",
+"image": "https://relevant-image.s3.amazonaws.com/y7y0a7sd0_.jpg",
+"handle": "mikepepi",
+"bio": "twitter.com/MikePepi",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "mikepepi"
+},
+"token": {
+"_id": "mikepepi"
+},
+"id": "mikepepi"
+},
+"level": 23.7,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0010449527915491763,
+"pagerank": 23.73
+},
+{
+"_id": "5afdddd21edd7218b17728c2",
+"community": "relevant",
+"user": {
+"_id": "jhud",
+"name": "jhud",
+"image": "https://relevant-image.s3.amazonaws.com/ysoo0suqu_.jpg",
+"handle": "jhud",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "jhud"
+},
+"token": {
+"_id": "jhud"
+},
+"id": "jhud"
+},
+"level": 9.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0002575483464037746,
+"pagerank": 9.5
+},
+{
+"_id": "5afdddd21edd7218b17728ca",
+"community": "relevant",
+"user": {
+"_id": "gilesdring",
+"name": "Giles Dring",
+"image": "https://pbs.twimg.com/profile_images/627944544152199168/1y0gGepf.jpg",
+"handle": "gilesdring",
+"bio": "Father, husband, amateur guitar torturer, trainee digital alchemist, ex-corporate geek *and* hat-wearer extraordinaire\ntwitter.com/gilesdring",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Giles Dring"
+},
+"token": {
+"_id": "gilesdring"
+},
+"id": "gilesdring"
+},
+"level": 4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00009082369699236734,
+"pagerank": 3.98
+},
+{
+"_id": "5afdddd21edd7218b17728cb",
+"community": "relevant",
+"user": {
+"_id": "Florent",
+"name": "Florent",
+"image": "https://relevant-image.s3.amazonaws.com/sgzlcqo7r_.jpg",
+"handle": "Florent",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Florent"
+},
+"token": {
+"_id": "Florent"
+},
+"id": "Florent"
+},
+"level": 29.5,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0016060902672524041,
+"pagerank": 29.49
+},
+{
+"_id": "5afdddd21edd7218b17728cc",
+"community": "relevant",
+"user": {
+"_id": "itskiny",
+"name": "icecreamwithyou",
+"image": "https://relevant-image.s3.amazonaws.com/plpput7d7_.jpg",
+"handle": "itskiny",
+"bio": "+ State of Art +",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "icecreamwithyou"
+},
+"token": {
+"_id": "itskiny"
+},
+"id": "itskiny"
+},
+"level": 22.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0009427309950567126,
+"pagerank": 22.43
+},
+{
+"_id": "5afdddd21edd7218b17728d0",
+"community": "relevant",
+"user": {
+"_id": "ejrsoft",
+"name": "ejr",
+"image": null,
+"handle": "ejrsoft",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "ejr"
+},
+"token": {
+"_id": "ejrsoft"
+},
+"id": "ejrsoft"
+},
+"level": 6.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00016336042555815063,
+"pagerank": 6.61
+},
+{
+"_id": "5afdddd21edd7218b17728d6",
+"community": "relevant",
+"user": {
+"_id": "darkmatter",
+"name": "darkmatter",
+"image": "https://pbs.twimg.com/profile_images/998282927208198144/QFyABZyP.jpg",
+"handle": "darkmatter",
+"bio": "architect @0xOmega, founding member & ambassador @gnosisPM, founder @AugurProject, advisor @foamspace @urbit @spankchain @cent @relevantfeed\ntwitter.com/malloc8",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "darkmatter"
+},
+"token": {
+"_id": "darkmatter"
+},
+"id": "darkmatter"
+},
+"level": 44.6,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0044040630335459045,
+"pagerank": 44.62
+},
+{
+"_id": "5afdddd21edd7218b17728d7",
+"community": "relevant",
+"user": {
+"_id": "nikkosmas",
+"name": "Nik",
+"image": "https://relevant-image.s3.amazonaws.com/3ji24lowa_.jpg",
+"handle": "nikkosmas",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Nik"
+},
+"token": {
+"_id": "nikkosmas"
+},
+"id": "nikkosmas"
+},
+"level": 9.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00025492677975881057,
+"pagerank": 9.43
+},
+{
+"_id": "5afdddd21edd7218b17728d9",
+"community": "relevant",
+"user": {
+"_id": "whaddayacare",
+"name": "Thomas Gaulkin",
+"image": "https://pbs.twimg.com/profile_images/1795369007/Saul-Steinberg.jpeg",
+"handle": "whaddayacare",
+"bio": "\ntwitter.com/whaddayacare",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Thomas Gaulkin"
+},
+"token": {
+"_id": "whaddayacare"
+},
+"id": "whaddayacare"
+},
+"level": 2.3,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0000506356519025712,
+"pagerank": 2.33
+},
+{
+"_id": "5afdddd21edd7218b17728da",
+"community": "relevant",
+"user": {
+"_id": "gustav",
+"name": "gustav",
+"image": "https://relevant-image.s3.amazonaws.com/jpau42bqq_.jpg",
+"handle": "gustav",
+"bio": "",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "gustav"
+},
+"token": {
+"_id": "gustav"
+},
+"id": "gustav"
+},
+"level": 3.4,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.00007491276429199162,
+"pagerank": 3.35
+},
+{
+"_id": "5afdddd21edd7218b17728e4",
+"community": "relevant",
+"user": {
+"_id": "benwestergreen",
+"name": "Benja West",
+"image": "https://pbs.twimg.com/profile_images/898638404111417345/BQiHeS72.jpg",
+"handle": "benwestergreen",
+"bio": "once lost never found letting go\ntwitter.com/bwestergreen",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Benja West"
+},
+"token": {
+"_id": "benwestergreen"
+},
+"id": "benwestergreen"
+},
+"level": 0.1,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0000024750404043461244,
+"pagerank": 0.12
+},
+{
+"_id": "5afdddd21edd7218b17728e6",
+"community": "relevant",
+"user": {
+"_id": "bmarv",
+"name": "Bill",
+"image": "https://pbs.twimg.com/profile_images/784200772024143872/tuj3Rr2l.jpg",
+"handle": "bmarv",
+"bio": "I knew I couldn't cop a coupe with no coupons.\ntwitter.com/bmarvjr",
+"votePower": 1,
+"relevance": null,
+"profile": {
+"name": "Bill"
+},
+"token": {
+"_id": "bmarv"
+},
+"id": "bmarv"
+},
+"level": 15.8,
+"communityId": "5be600479d50a077443dd594",
+"pagerankRaw": 0.0005273843170069313,
+"pagerank": 15.8
+}
+]

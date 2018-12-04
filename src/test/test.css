@@ -1,0 +1,48 @@
+body {
+  background: black;
+  color: white;
+}
+
+#Welcome {
+  margin-bottom: 10px;
+  color: lightblue;
+}
+
+#Header {
+  width: 100% !important;
+  background: black !important;
+}
+
+.rbt {
+  float: left;
+  margin-top: 10px;
+  height: 50px !important;
+}
+
+.rbt-input-hint-container {
+  width: 250px !important;
+  margin: 0;
+  padding: 0;
+}
+
+.white, #dropdown {
+  color: white !important;
+}
+
+.userBlurb {
+  margin-bottom: 10px;
+  min-height: 100px;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  float: left;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+.userProfileInfo {
+  height: 100%;
+}

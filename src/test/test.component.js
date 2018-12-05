@@ -17,7 +17,10 @@ class Test extends Component {
       community: '',
       searchedUser: {},
       searchedInstance: [],
+      searchCommunities: [],
+      searchPagerankRaw: '',
       showCommunities: true,
+      showSearchResult: false,
       topX: 10
     }
 
@@ -53,6 +56,11 @@ class Test extends Component {
     e.preventDefault()
     this.setState({
       showCommunities: true,
+      showSearchResult: false,
+      searchedUser: {},
+      searchedInstance: [],
+      searchCommunities: [],
+      searchPagerankRaw: '',
       community: e.target.text
     })
   }
@@ -121,6 +129,8 @@ class Test extends Component {
           token_id={userProf.token_id}
           vetoPower={userProf.vetoPower}
           iterateOverDeets={this.iterateOverDeets}
+          searchCommunities={this.state.searchCommunities}
+          searchPagerankRaw={this.state.searchPagerankRaw}
           
         />
       )
@@ -158,38 +168,32 @@ class Test extends Component {
       res = this.filterByCommunity(this.state.community, this.props),
       usersByCommunity = res.chosen,
       usersNotChosen = res.usersNotChosen,
-      instCommunities = [],
-      instLevel = [],
-      instPagerank = [],
-      instPagerankRaw = [],
+      searchCommunities = [],
+      searchPagerankRaw = '',
       searchedInstances = [],
       searchedUser = {}
 
     allInstances.map( instance => {
       if (instance.user == name) {
         searchedInstances.push(instance)
-        instCommunities.push(instance.community)
-        instLevel.push(instance.level)
-        instPagerank.push(instance.pagerank)
-        instPagerankRaw.push(instance.pagerankRaw)
+        searchCommunities.push (instance.community)
+        searchPagerankRaw = instance.pagerankRaw
       }
     })
 
     searchedUser = this.searchObjByName(usersByCommunity, usersNotChosen, name)
 
-    searchedUser[name].instCommunities = instCommunities
-    searchedUser[name].instLevel = instLevel
-    searchedUser[name].instPagerank = instPagerank
-    searchedUser[name].instPagerankRaw = instPagerankRaw
-
     this.setState({
-      searchedInstance: searchedInstances[0],
+      searchedInstance: [searchedInstances[0]],
       searchedUser,
-      showCommunities: false
+      searchCommunities,
+      searchPagerankRaw,
+      showCommunities: false,
+      showSearchResult: true
     })
   }
 
-  iterateOverDeets(arr) {
+  iterateOverDeets(arr, label) {
     let str = ''
     arr.map( item => {
       str += `${item}, `
@@ -199,7 +203,7 @@ class Test extends Component {
 
     return (
       <div>
-        { newStr }
+        {label}: { newStr }
       </div>
     )
   }
@@ -207,11 +211,14 @@ class Test extends Component {
   render() {
     let 
       { communities, names } = this.props,
-      { community, searchedInstance, searchedUser, showCommunities } = this.state,
+      { community, searchedInstance, searchedUser, showCommunities, showSearchResult } = this.state,
       res = this.filterByCommunity(community, this.props),
       usersByCommunity = res.chosen,
       chosenInstances = usersByCommunity[`${community}_instances`],
       chosenUsers = usersByCommunity[`${community}_users`]
+
+    console.log('searchedInstance.length > 0 = ', searchedInstance.length > 0)
+    console.log('!isObjEmpty(searchedUser) = ', !isObjEmpty(searchedUser))
 
     return (
       <div>
@@ -237,7 +244,7 @@ class Test extends Component {
             : ''
         }
         {
-          searchedInstance.length > 0 && !isObjEmpty(searchedUser) 
+          searchedInstance.length > 0 && !isObjEmpty(searchedUser) && showSearchResult 
             ? this.renderUsers(searchedUser, searchedInstance)
             : ''
         }

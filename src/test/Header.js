@@ -45,6 +45,7 @@ class Header extends Component {
           }
           <Typeahead
             labelKey="user"
+            placeholder="Search a user..."
             onChange={(selected) => {
               this.props.handleSearchQuery(selected)
             }}
